@@ -1,0 +1,17 @@
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\bin\Debug\net6.0\JeevanNotebook.DataService.deps.json
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\bin\Debug\net6.0\JeevanNotebook.DataService.runtimeconfig.json
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\bin\Debug\net6.0\JeevanNotebook.DataService.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\bin\Debug\net6.0\JeevanNotebook.DataService.pdb
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.csproj.AssemblyReference.cache
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.AssemblyInfoInputs.cache
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.AssemblyInfo.cs
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.csproj.CoreCompileInputs.cache
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\refint\JeevanNotebook.DataService.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.pdb
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.genruntimeconfig.cache
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\ref\JeevanNotebook.DataService.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\bin\Debug\net6.0\JeevanNotebook.Entities.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\bin\Debug\net6.0\JeevanNotebook.Entities.pdb
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.DataService\obj\Debug\net6.0\JeevanNotebook.DataService.csproj.CopyComplete

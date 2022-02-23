@@ -1,0 +1,12 @@
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\bin\Debug\net6.0\JeevanNotebook.Entities.deps.json
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\bin\Debug\net6.0\JeevanNotebook.Entities.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\bin\Debug\net6.0\JeevanNotebook.Entities.pdb
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\JeevanNotebook.Entities.csproj.AssemblyReference.cache
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\JeevanNotebook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\JeevanNotebook.Entities.AssemblyInfoInputs.cache
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\JeevanNotebook.Entities.AssemblyInfo.cs
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\JeevanNotebook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\JeevanNotebook.Entities.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\refint\JeevanNotebook.Entities.dll
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\JeevanNotebook.Entities.pdb
+C:\Users\jeevanthapa\Desktop\TechStackLearn\DotNetLearning\HealthTrackingAPI\Ep1\JeevanNotebook.Entities\obj\Debug\net6.0\ref\JeevanNotebook.Entities.dll
